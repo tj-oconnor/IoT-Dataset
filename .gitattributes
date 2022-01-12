@@ -1,0 +1,5 @@
+pcaps/geeni-cam-01.pcap filter=lfs diff=lfs merge=lfs -text
+pcaps/geeni-doorbell-01.pcap filter=lfs diff=lfs merge=lfs -text
+pcaps/nightowl-doorbell-01.pcap filter=lfs diff=lfs merge=lfs -text
+pcaps/nightowl-doorbell-02.pcap filter=lfs diff=lfs merge=lfs -text
+pcaps/wyze-cam-01.pcap filter=lfs diff=lfs merge=lfs -text
